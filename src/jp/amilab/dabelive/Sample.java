@@ -46,7 +46,7 @@ public class Sample {
 			while(true) {
 				try {
 					DabeMain.main(sid);
-//					CRobotUtil.wait(7000);
+					CRobotUtil.wait(7000);
 			}
 				catch(Exception e)
 			{
